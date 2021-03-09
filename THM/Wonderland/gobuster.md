@@ -1,3 +1,4 @@
+```
 ===============================================================
 Gobuster v3.0.1
 by OJ Reeves (@TheColonial) & Christian Mehlmauer (@_FireFart_)
@@ -16,7 +17,9 @@ by OJ Reeves (@TheColonial) & Christian Mehlmauer (@_FireFart_)
 ===============================================================
 2021/03/08 11:59:29 Finished
 ===============================================================
+```
 
+```
 ===============================================================
 Gobuster v3.0.1
 by OJ Reeves (@TheColonial) & Christian Mehlmauer (@_FireFart_)
@@ -34,5 +37,6 @@ by OJ Reeves (@TheColonial) & Christian Mehlmauer (@_FireFart_)
 ===============================================================
 2021/03/08 12:01:10 Finished
 ===============================================================
+```
 
-The url looks like form rabbit: http://10.10.176.220/r/a/b/b/i/t/
+The url looks like form "rabbit": http://10.10.176.220/r/a/b/b/i/t/
