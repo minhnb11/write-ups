@@ -73,7 +73,7 @@ void main(void)
 
 First the program just print the core dumped error, lmao. Second, it set the uid to 1003 (probably the `hatter` user).
 
-I can see that the program uses the command `date` inside the `system` function with a relative PATH. Adding `/home/rabbit` to `rabbit` PATH: `PATH="$HOME:$PATH"` and creating `date` script in it with something... funny in it will do i think. (Remember to execute `chmod a+x date``to allow the system to run the script)
+I can see that the program uses the command `date` inside the `system` function with a relative PATH. Adding `/home/rabbit` to `rabbit` PATH: `PATH="$HOME:$PATH"` and creating `date` script in it with something... funny in it will do i think. (Remember to execute `chmod a+x date` to allow the system to run the script)
 
 Lets try it, this is my `date` script:
 
