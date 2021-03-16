@@ -1,4 +1,4 @@
-# AgentTester
+# AgentTesterV1
 
 The code of the aplication was provided and looking at the code we can see that is vulnerable to sql injection (Later i discovered that this wasnt really necessary because the tables names can be checked in the aplication files but hey, is cool):
 
